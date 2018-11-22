@@ -1,0 +1,6 @@
+2018-11-19 15:08:25,690 - Starting LoggerTest on Kim-PC with PID 10972 (started by Administrator in E:\hjz\spring-boot-pay\sell)
+2018-11-19 15:08:25,690 - No active profile set, falling back to default profiles: default
+2018-11-19 15:08:27,213 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-19 15:08:27,489 - Started LoggerTest in 2.583 seconds (JVM running for 3.372)
+2018-11-19 15:08:27,699 - info...
+2018-11-19 15:08:27,704 - Shutting down ExecutorService 'applicationTaskExecutor'
