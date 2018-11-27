@@ -1,0 +1,6 @@
+2018-11-27 15:45:40,084 - Column 'create_time' cannot be null
+2018-11-27 15:45:40,116 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2018-11-27 15:49:36,418 - Column 'create_time' cannot be null
+2018-11-27 15:49:36,419 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2018-11-27 15:50:59,455 - Column 'create_time' cannot be null
+2018-11-27 15:50:59,456 - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]

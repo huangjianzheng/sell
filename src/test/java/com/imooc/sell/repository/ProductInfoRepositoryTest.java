@@ -38,4 +38,10 @@ public class ProductInfoRepositoryTest {
         List<ProductInfo> list =repository.findByProductStatus(0);
         System.out.println(list.toString());
     }
+
+    @Test
+    public void findOne(){
+        ProductInfo productInfo=repository.findById("123456").orElse(null);
+        System.out.println(productInfo.toString());
+    }
 }
